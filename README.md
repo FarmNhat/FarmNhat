@@ -20,45 +20,28 @@
     <img src="https://img.shields.io/github/stars/FarmNhat?label=Stars&style=flat-square&color=27ae60&logo=github" />
   </a>
   <!-- ✏️ Thay bằng LinkedIn thật nếu có -->
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/minh-nhat-pham-8590283a1/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
   </a>
   <!-- ✏️ Thay bằng email thật -->
-  <a href="mailto:your@email.com">
+  <a href="mailto:nhatpham10925@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-```verilog
-module FarmNhat (
-  input  wire  passion,
-  input  wire  coffee,
-  output reg   awesome_hardware
-);
-  // Hardware & Embedded Systems Engineer
-  // Based in Vietnam 🇻🇳
-  // Building silicon from the ground up 🔧
 
-  always @(posedge passion) begin
-    if (coffee)
-      awesome_hardware <= 1'b1;
-  end
-
-endmodule
-```
-
-- 🔭 Currently working on **RISC-V CPU design & VLSI cryptographic accelerators**
-- 🌱 Exploring **advanced SoC integration** and **hardware security**
-- 📄 Published **conference paper** on UAV detection via DSP & math models (IAAA)
-- ⚡ Fun fact: I design CPUs in Verilog for fun
+- Currently working on **RISC-V CPU design & VLSI cryptographic accelerators**
+- Exploring **advanced SoC integration** and **hardware security**
+- Paper submitted **conference paper** on UAV detection via DSP & math models (IAAA)
+- Fun fact: I design CPUs in Verilog for fun
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <p align="center">
 
@@ -88,56 +71,15 @@ endmodule
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech | Stars |
 |---------|-------------|------|-------|
-| [⚙️ 5-Stage Pipelined RV32IM Core](https://github.com/FarmNhat/5-Stage-Pipelined-RV32IM) | Pipelined RISC-V CPU with bypass & forwarding | Verilog | ⭐ 1 |
-| [🔐 SoC RV32I + RSA Accelerator](https://github.com/FarmNhat/SoC-RV32I-core-with-RSA-Accelerator) | Full SoC with Montgomery RSA crypto in VLSI | Verilog | - |
-| [🛸 UAV Detection — IAAA Conference](https://github.com/FarmNhat/UAV-dectetion-based-on-DSP-and-Math-models) | Anti-spoofing via STFRFT & math models | MATLAB/DSP | - |
-| [🌱 Smart Farm Watering](https://github.com/FarmNhat/Smart_Farm_Watering) | IoT automated irrigation system | JavaScript | ⭐ 1 |
-| [🔒 CRYPTO SoC — BAT-LAB69](https://github.com/BAT-LAB69/CRYPTO_SOC) | Collaborative cryptographic SoC | Verilog | ⭐ 1 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarmNhat&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarmNhat&theme=chartreuse-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarmNhat&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6" width="40%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarmNhat&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FarmNhat/FarmNhat/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/FarmNhat/FarmNhat/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://github.com/FarmNhat/FarmNhat/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarmNhat&theme=react-dark&hide_border=true&color=27ae60&line=27ae60&point=ffffff" width="95%" />
-</p>
+| [ 5-Stage Pipelined RV32IM Core](https://github.com/FarmNhat/5-Stage-Pipelined-RV32IM) | Pipelined RISC-V CPU with bypass & forwarding | Verilog | ⭐ 1 |
+| [ SoC RV32I + RSA Accelerator](https://github.com/FarmNhat/SoC-RV32I-core-with-RSA-Accelerator) | Full SoC with Montgomery RSA crypto in VLSI | Verilog | - |
+| [ UAV Detection — IAAA Conference](https://github.com/FarmNhat/UAV-dectetion-based-on-DSP-and-Math-models) | Anti-spoofing via STFRFT & math models | MATLAB/DSP | - |
+| [ Smart Farm Watering](https://github.com/FarmNhat/Smart_Farm_Watering) | IoT automated irrigation system | JavaScript | ⭐ 1 |
+| [ CRYPTO SoC — BAT-LAB69](https://github.com/BAT-LAB69/CRYPTO_SOC) | Collaborative cryptographic SoC | Verilog | ⭐ 1 |
 
 ---
 
