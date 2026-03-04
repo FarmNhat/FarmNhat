@@ -67,13 +67,13 @@
 
 ## Featured Projects
 
-| Project | Description | Tech | Stars |
-|---------|-------------|------|-------|
-| [ 5-Stage Pipelined RV32IM Core](https://github.com/FarmNhat/5-Stage-Pipelined-RV32IM) | Pipelined RISC-V CPU with bypass & forwarding | Verilog | ⭐ 1 |
-| [ SoC RV32I + RSA Accelerator](https://github.com/FarmNhat/SoC-RV32I-core-with-RSA-Accelerator) | Full SoC with Montgomery RSA crypto in VLSI | Verilog | - |
-| [ UAV Detection — IAAA Conference](https://github.com/FarmNhat/UAV-dectetion-based-on-DSP-and-Math-models) | Anti-spoofing via STFRFT & math models | MATLAB/DSP | - |
-| [ Smart Farm Watering](https://github.com/FarmNhat/Smart_Farm_Watering) | IoT automated irrigation system | JavaScript | ⭐ 1 |
-| [ CRYPTO SoC — BAT-LAB69](https://github.com/BAT-LAB69/CRYPTO_SOC) | Collaborative cryptographic SoC | Verilog | ⭐ 1 |
+| Project | Description | Tech | 
+|---------|-------------|------|
+| [ 5-Stage Pipelined RV32IM Core](https://github.com/FarmNhat/5-Stage-Pipelined-RV32IM) | Pipelined RISC-V CPU with bypass & forwarding | Verilog | 
+| [ SoC RV32I + RSA Accelerator](https://github.com/FarmNhat/SoC-RV32I-core-with-RSA-Accelerator) | Full SoC with Montgomery RSA crypto in VLSI | Verilog | 
+| [ UAV Detection — IAAA Conference](https://github.com/FarmNhat/UAV-dectetion-based-on-DSP-and-Math-models) | Anti-spoofing via STFRFT & math models | MATLAB/DSP | 
+| [ Smart Farm Watering](https://github.com/FarmNhat/Smart_Farm_Watering) | IoT automated irrigation system | JavaScript | 
+| [ CRYPTO SoC — BAT-LAB69](https://github.com/BAT-LAB69/CRYPTO_SOC) | Collaborative cryptographic SoC | Verilog | 
 
 ---
 
