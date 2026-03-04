@@ -33,11 +33,12 @@
 
 ## About Me
 
+- HCMUTer undergraduate 
+- VLSI design, DSP and Math, Embedded System & Firmware
+- Currently working on: **RISC-V CPU design & VLSI accelerators** and **Digital Signal Processing applications & Firmware, OS in embedded system**
+- Exploring: **advanced SoC integration**, **Math and DSP model application** and **Edge Processing**
+- Paper submitted: **conference** on UAV detection via DSP & math models (IAAA)
 
-- Currently working on **RISC-V CPU design & VLSI cryptographic accelerators**
-- Exploring **advanced SoC integration** and **hardware security**
-- Paper submitted **conference paper** on UAV detection via DSP & math models (IAAA)
-- Fun fact: I design CPUs in Verilog for fun
 
 ---
 
@@ -48,24 +49,17 @@
 **Hardware & RTL Design**
 
 ![Verilog](https://img.shields.io/badge/Verilog-b2b7f8?style=for-the-badge&logo=v&logoColor=black)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-7a7fc4?style=for-the-badge&logo=v&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-FF6B35?style=for-the-badge&logo=xilinx&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
 ![VLSI](https://img.shields.io/badge/VLSI%20%2F%20SoC-1a1a2e?style=for-the-badge&logo=intel&logoColor=white)
 
 **Software & Embedded**
 
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C/C++](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
+![OS](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
+![Firmware](https://img.shields.io/badge/SystemVerilog-7a7fc4?style=for-the-badge&logo=v&logoColor=white)
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </p>
 
