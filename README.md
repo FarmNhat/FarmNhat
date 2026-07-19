@@ -35,7 +35,7 @@
 
 - HCMUTer undergraduate 
 - VLSI design, DSP and Math, Embedded System & Firmware
-- Currently working on: **RISC-V CPU design & VLSI accelerators** and **Digital Signal Processing applications & Firmware, OS in embedded system**
+- Currently working on: **RISC-V CPU design & VLSI accelerators** and **Digital Signal Processing applications**
 - Exploring: **advanced SoC integration**, **Math and DSP model application** and **Edge Processing**
 - Paper submitted: **conference** on UAV detection via DSP & math models (IAAA)
 
