@@ -34,34 +34,10 @@
 ## About Me
 
 - HCMUTer undergraduate 
-- VLSI design, DSP and Math, Embedded System & Firmware
-- Currently working on: **RISC-V CPU design & VLSI accelerators** and **Digital Signal Processing applications**
+- Physical Design VLSI, Experienced multiple architectures, PDK and tools
+- Worked on: **RISC-V CPU design & VLSI accelerators** and **Digital Signal Processing applications**
 - Exploring: **advanced SoC integration**, **Math and DSP model application** and **Edge Processing**
-- Paper submitted: **conference** on UAV detection via DSP & math models (IAAA)
-
-
----
-
-## Tech Stack & Skills
-
-<p align="center">
-
-**Hardware & RTL Design**
-
-![Verilog](https://img.shields.io/badge/Verilog-b2b7f8?style=for-the-badge&logo=v&logoColor=black)
-![FPGA](https://img.shields.io/badge/FPGA-FF6B35?style=for-the-badge&logo=xilinx&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
-![VLSI](https://img.shields.io/badge/VLSI%20%2F%20SoC-1a1a2e?style=for-the-badge&logo=intel&logoColor=white)
-
-**Software & Embedded**
-
-![C/C++](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![OS](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
-![Firmware](https://img.shields.io/badge/SystemVerilog-7a7fc4?style=for-the-badge&logo=v&logoColor=white)
-
-
-</p>
+- Paper submitted: **conference** on UAV detection via DSP & math models (MIWAU and CSONET)
 
 ---
 
